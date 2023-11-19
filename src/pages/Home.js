@@ -579,7 +579,7 @@ const Home = () => {
                             {/* <Text style={styles.activeProgramTitle}>
                               {program ? program.title : "No Channel"}
                             </Text> */}
-
+    
                             <ReactPlayer
                             className='react-player'
                             url={program ? program.url_channel: ""}
