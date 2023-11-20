@@ -161,8 +161,8 @@ const styles = StyleSheet.create({
     flex: 1
   },
   focusedBorder: {
-    borderWidth: 6
-    // borderColor: '#FCCF00'
+    borderWidth: 6,
+    borderColor: '#FCCF00'
     // backgroundColor: "white"
   }
 });
